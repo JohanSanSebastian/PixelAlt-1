@@ -38,6 +38,8 @@ Line 29: Add The Channel ID Of Where The Bot Should Send The Messages At. We Wou
 channel = client.get_channel(CHANNEL-ID)
 ```
 
+Then Do ```pip install -r requirements.txt``` And Start Using ```python main.py```
+
 # Contributions
 
 Your Contributions Are Welcome :)
